@@ -1,0 +1,11 @@
+*{
+  padding: 0;
+  margin: 00;
+}
+
+:root {
+  --btn-bg: #F74D4D;
+  --gray: #333333;
+  --light-gray: #748194;
+  --dark-blue: #161C2D;
+}
